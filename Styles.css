@@ -1,0 +1,33 @@
+Styles.css
+/*Estilos Generales*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+/*Encabezados*/
+.Encabezados {
+    background-color: #281c77;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.Objetivo {
+    margin-top: 10px;
+}
+
+/*Proyectos*/
+.Proyectos {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.Contactos{
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin-bottom: 15px;
+}
